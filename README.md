@@ -1,2 +1,2 @@
 # Excel
-These are the projects that have been done during my Coursera course using various functions and shortcuts in Microsoft Excel.
+These projects include calculating key financial measures by organizing data efficiently, creating columns, and applying functions. 
